@@ -1,0 +1,4 @@
+#MONGO KEYS
+MONGODB_PSW=password
+MONGODB_USR=user
+MONGODB_CLUSTER=cluster
